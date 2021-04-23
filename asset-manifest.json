@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/deneme/static/js/main.8cb08cfc.chunk.js",
+    "main.js.map": "/deneme/static/js/main.8cb08cfc.chunk.js.map",
+    "runtime-main.js": "/deneme/static/js/runtime-main.97540212.js",
+    "runtime-main.js.map": "/deneme/static/js/runtime-main.97540212.js.map",
+    "static/js/2.3d205a91.chunk.js": "/deneme/static/js/2.3d205a91.chunk.js",
+    "static/js/2.3d205a91.chunk.js.map": "/deneme/static/js/2.3d205a91.chunk.js.map",
+    "index.html": "/deneme/index.html",
+    "static/js/2.3d205a91.chunk.js.LICENSE.txt": "/deneme/static/js/2.3d205a91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97540212.js",
+    "static/js/2.3d205a91.chunk.js",
+    "static/js/main.8cb08cfc.chunk.js"
+  ]
+}
